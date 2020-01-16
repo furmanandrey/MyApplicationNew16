@@ -1,0 +1,8 @@
+<resources>
+    <string name="button">First Button</string>
+    <string name="button2">Second Button</string>
+    <string name="button3">Third Button</string>
+    <string name="button4">Fours Button</string>
+    <string name="button5">Fifts Button</string>
+    <string name="button6">Six Button</string>
+</resources>
